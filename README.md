@@ -5,4 +5,5 @@ I've tried to mimic the famous android game 'Angry Birds'. This game is pretty s
 #### To play this game:
 - Download the zip folder locally on your pc.
 - Extract the files, and run the .exe file.
+- Hope you like it 🤗.
 
