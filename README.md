@@ -8,4 +8,4 @@ I've tried to mimic the famous android game 'Angry Birds'. This game is pretty s
 - Only works on windows.  
 - Hope you like it 🤗. 
   
-Follow this link to see the gameplay: https://www.linkedin.com/posts/prathmesh-chhabra-51760719b_finally-finished-my-first-game-project-activity-6765388912023220224-GfHr?utm_source=linkedin_share&utm_medium=member_desktop_web
+Follow this [link](https://www.linkedin.com/posts/prathmesh-chhabra-51760719b_finally-finished-my-first-game-project-activity-6765388912023220224-GfHr?utm_source=linkedin_share&utm_medium=member_desktop_web) to see the gameplay: 
