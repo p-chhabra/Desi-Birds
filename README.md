@@ -1,6 +1,7 @@
-# MyGame
+# Desi Birds
 This is the first ever project I created using Unity Engine with C#. (Its just a simple fun little game)  
 I've tried to mimic the famous android game 'Angry Birds'. This game is pretty similar, except that it runs on windows and has very few levels 😅.  
+Unfortunately, my old PC had to be reformatted due to some issue and i ended up losing the engine files and code to this game.
   
 #### To play this game:
 - Download the zip folder locally on your pc.
