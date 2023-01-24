@@ -6,7 +6,7 @@ Unfortunately, my old PC had to be reformatted due to some issue and i ended up 
 #### To play this game:
 - Download the zip folder locally on your pc.
 - Extract the files, and run the .exe file.
-- Only works on windows.  
+- Only works on windows operating system.  
 - Hope you like it 🤗. 
   
 Follow this [link](https://www.linkedin.com/posts/prathmesh-chhabra-51760719b_finally-finished-my-first-game-project-activity-6765388912023220224-GfHr?utm_source=linkedin_share&utm_medium=member_desktop_web) to watch the gameplay
